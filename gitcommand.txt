@@ -1,0 +1,25 @@
+git add .
+git status 
+git commit -m ""message
+git remote add origin https://github.com/Ghazi786/GitBasic.git
+git push -u origin master
+
+
+
+git clone url
+git add .'
+git commit -m "jhhsjhdfj"
+git push
+
+
+to go on any commit point
+git reset --hard 70459301047fb168e3a3b27c6058f55836821e03
+
+
+
+
+to give tag ctr shift padding-right and write below
+git create tag
+git push with tag
+
+https://git-scm.com/book/en/v2/Git-Basics-Tagging
