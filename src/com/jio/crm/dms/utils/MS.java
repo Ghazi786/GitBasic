@@ -1,0 +1,5 @@
+package com.jio.crm.dms.utils;
+
+public enum MS {
+	CONFIGURATION_MS, SUBSCRIBERS_MS, INTEGRATIONS_MS, USER_SUBSCRIPTION_MS, CRM_MS;
+}
